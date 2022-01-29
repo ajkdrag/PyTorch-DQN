@@ -1,0 +1,5 @@
+{
+    "env_name": "CartPole-v0",
+    "display": false,
+    "model_dir": "out"
+}

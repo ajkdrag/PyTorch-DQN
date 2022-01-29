@@ -1,0 +1,12 @@
+{
+    "tgt_reward": 200,
+    "gamma": 0.99,
+    "lr": 0.002,
+    "mem_sz": 3000,
+    "batch_sz": 256,
+    "sync_tgt_steps": 20,
+    "replay_start_sz": 500,
+    "exploration_max": 0.9,
+    "exploration_min": 0.01,
+    "exploration_decay": 0.995
+}
